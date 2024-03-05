@@ -1,2 +1,2 @@
-look
+plook
 # sakuna
